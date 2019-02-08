@@ -7,4 +7,3 @@ this.veto = function veto (){
   console.log(No, I must disagree);
 }
 }
-
